@@ -33,7 +33,7 @@ A perfectionist by nature with a result-oriented, cost-efficient, and robust cli
 <br>
 
 <a href="https://github.com/anastasia-a-zhivaeva">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-a-zhivaeva&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-a-zhivaeva&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/anastasia-a-zhivaeva">
