@@ -26,6 +26,10 @@ A perfectionist by nature with a result-oriented, cost-efficient, and robust cli
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anastasia-a-zhivaeva&repo=frontend-interview-test&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/anastasia-a-zhivaeva/typescript-developer-challenge">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anastasia-a-zhivaeva&repo=typescript-developer-challenge&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ---
 
 ## 📈 GitHub Stats
