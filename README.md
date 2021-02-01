@@ -1,9 +1,9 @@
 ![Anastasia's GitHub Banner](./assets/banner.jpg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/anastasia-a-zhivaeva/anastasia-a-zhivaeva)](https://github.com/anastasia-a-zhivaeva)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/anastasia_a_zhi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anastasia-zhivaeva/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=codepen&logoColor=white&color=F7DF1D)](https://medium.com/@anastasia.a.zhivaeva/about)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://twitter.com/anastasia_a_zhi)
 
 Frontend | Backend | Full Stack JavaScript Developer | Architect with a 4 year proven track record in developing Web, Mobile, and Desktop applications using Web Technologies.
 Strong work ethics and attention to detail for bug-free software.
