@@ -4,6 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anastasia-zhivaeva/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=codepen&logoColor=white&color=F7DF1D)](https://medium.com/@anastasia.a.zhivaeva/about)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/anastasia.a.zhivaeva/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=4267B2)](https://www.facebook.com/anastasia.zhivaeva.566)
 
 Frontend | Backend | Full Stack JavaScript Developer | Architect with a 4 year proven track record in developing Web, Mobile, and Desktop applications using Web Technologies.
 Strong work ethics and attention to detail for bug-free software.
