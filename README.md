@@ -1,14 +1,18 @@
 ![Anastasia's GitHub Banner](./assets/banner.jpg)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/anastasia_a_zhi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anastasia-zhivaeva/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=codepen&logoColor=white&color=F7DF1D)](https://medium.com/@anastasia.a.zhivaeva/about)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/anastasia.a.zhivaeva/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=4267B2)](https://www.facebook.com/anastasia.zhivaeva.566)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/anastasia_a_zhi)
 
-Frontend | Backend | Full Stack JavaScript Developer | Architect with a 4 year proven track record in developing Web, Mobile, and Desktop applications using Web Technologies.
-Strong work ethics and attention to detail for bug-free software.
+Frontend | Backend | Full Stack JavaScript Developer with 4+ years of experience in designing and developing Web applications,
+Serverless applications, and Desktop applications using Web technologies. \
+Strong work ethics and attention to detail for bug-free software. \
 A perfectionist by nature with a result-oriented, cost-efficient, and robust clients' approach.
+Automated business processes of 40 clients, improved technical processes of the company, and mentored more than 10 team members.\
+Despite taking management roles, seeking to continue my career as a software developer with the potential to become a team/tech leader.
+
 
 ---
 
@@ -51,17 +55,19 @@ A perfectionist by nature with a result-oriented, cost-efficient, and robust cli
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Serverless-informational?style=flat&logo=Serverless&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NGXS-informational?style=flat&logo=NGXS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=Electron&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Serverless-informational?style=flat&logo=Serverless&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-DynamoDB-informational?style=flat&logo=DynamoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Amazon-Elasticsearch-informational?style=flat&logo=Amazon&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Amazon-Recognition-informational?style=flat&logo=Amazon&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Amazon-DynamoDB-informational?style=flat&logo=Amazon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -77,6 +83,7 @@ A perfectionist by nature with a result-oriented, cost-efficient, and robust cli
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Protactor-informational?style=flat&logo=Protractor&logoColor=white&color=4AB197)
 
 <br>
 
