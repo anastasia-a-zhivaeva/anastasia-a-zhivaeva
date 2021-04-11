@@ -83,7 +83,7 @@ Despite taking management roles, seeking to continue my career as a software dev
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Protactor-informational?style=flat&logo=Protractor&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Protractor-informational?style=flat&logo=Protractor&logoColor=white&color=4AB197)
 
 <br>
 
