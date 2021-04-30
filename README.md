@@ -27,7 +27,7 @@ Despite taking management roles, seeking to continue my career as a software dev
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anastasia-a-zhivaeva&repo=grokking-algorithms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/anastasia-a-zhivaeva/frontend-interview-test">
+<a href="https://github.com/anastasia-a-zhivaeva/payment-terminal.front">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anastasia-a-zhivaeva&repo=frontend-interview-test&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
