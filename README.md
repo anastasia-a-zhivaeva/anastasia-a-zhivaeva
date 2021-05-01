@@ -8,8 +8,7 @@
 
 Frontend | Backend | Full Stack JavaScript Developer with 4+ years of experience in designing and developing Web applications,
 Serverless applications, and Desktop applications using Web technologies. \
-Strong work ethics and attention to detail for bug-free software. \
-A perfectionist by nature with a result-oriented, cost-efficient, and robust clients' approach. \
+
 Automated business processes of 40 clients, improved technical processes of the company, and mentored and trained new developers and more than 10 team members.\
 Despite taking management roles, seeking to continue my career as a software developer with the potential to become a team/tech leader.
 
