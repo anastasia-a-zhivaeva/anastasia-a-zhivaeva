@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/anastasia_a_zhi)
 
 Frontend | Backend | Full Stack JavaScript Developer with 4+ years of experience in designing and developing Web applications,
-Serverless applications, and Desktop applications using Web technologies. \
+Serverless applications, and Desktop applications using Web technologies.
 
 Automated business processes of 40 clients, improved technical processes of the company, and mentored and trained new developers and more than 10 team members.\
 Despite taking management roles, seeking to continue my career as a software developer with the potential to become a team/tech leader.
