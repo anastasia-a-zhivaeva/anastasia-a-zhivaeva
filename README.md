@@ -5,11 +5,13 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/anastasia.a.zhivaeva/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=4267B2)](https://www.facebook.com/anastasia.zhivaeva.566)
 
-Frontend | Backend | Full Stack JavaScript/TypeScript Developer with 6+ years of experience in designing and developing Web applications, Mobile applications, and Desktop applications using Web technologies with Serverless architecture based on Amazon Web Services.
+Frontend | Backend | Full Stack JavaScript/TypeScript Developer with over 7 years of experience designing and developing Web, Mobile, and Desktop applications using Web technologies with Serverless architecture based on Amazon Web Services.
 
-Bachelor's and Master's degrees in Software Engineering field from Don State Technical University.
+Bachelor's and Master's degrees in Software Engineering from Don State Technical University.
 
-Automated business processes of 40 clients, integrated third-party services to new and existing applications, designed and developed SaaS in the Media & Entertainment field, successfully migrated more than 100 000 pieces of asset metadata and/or files, improved technical processes of the former company, mentored and trained new developers and team members.
+Automated business processes of 40 clients, integrated third-party services to new and existing applications, designed and developed SaaS in the Media & Entertainment industry, successfully migrated more than 100,000 pieces of asset metadata and files, improved technical processes of the former company, and mentored and trained new developers and team members.
+
+Curator of a Telegram channel that publishes the best articles on Full Stack JavaScript Development with summary translated to Russian - https://t.me/full_stack_js_digest
 
 ---
 
