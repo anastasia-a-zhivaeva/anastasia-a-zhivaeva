@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/anastasia.a.zhivaeva/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=4267B2)](https://www.facebook.com/anastasia.zhivaeva.566)
 
-Frontend | Backend | Full Stack JavaScript/TypeScript Developer with over 7 years of experience designing and developing Web, Mobile, and Desktop applications using Web technologies with Serverless architecture based on Amazon Web Services.
+Frontend | Backend | Full Stack JavaScript/TypeScript Developer with over 8 years of experience designing and developing Web, Mobile, and Desktop applications using Web technologies with Serverless architecture based on Amazon Web Services.
 
 Bachelor's and Master's degrees in Software Engineering from Don State Technical University.
 
